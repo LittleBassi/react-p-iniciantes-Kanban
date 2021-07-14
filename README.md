@@ -1,2 +1,3 @@
 # react-p-iniciantes-Kanban
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://lozli.csb.app/)
